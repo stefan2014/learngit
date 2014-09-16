@@ -1,5 +1,9 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a index called stage.
+<<<<<<< HEAD
 Git tracks changesxxxxxxx.
+=======
+Git xxxxtracks changes.
+>>>>>>> fix_readme
 Git helloworld.
